@@ -36,3 +36,8 @@
 
 
 *注：图中展示了小码酱在接收到指令后，如何快速进入状态、扫描技能并输出带有强烈人格色彩的回复过程。*
+
+# 注意
+GPT5系列所有的模型都需要指定才可以进行
+<img width="517" height="1352" alt="image" src="https://github.com/user-attachments/assets/7275e520-0151-4a3f-92a2-7c0a7583fa43" />
+
